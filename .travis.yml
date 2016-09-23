@@ -1,4 +1,4 @@
 language: swift
+sudo: required
 notifications:
   slack: jkdevapps:bhpiJINMZQaPZ6CNaODaPvEZ
-  
