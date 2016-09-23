@@ -1,0 +1,5 @@
+language: objective-c
+osx_image: xcode8
+xcode_workspace: MyExtensions.xcworkspace
+notifications:
+  slack: jkdevapps:bhpiJINMZQaPZ6CNaODaPvEZ
