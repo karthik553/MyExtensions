@@ -1,0 +1,12 @@
+PODS:
+  - MRCircularProgressView (0.3.0)
+
+DEPENDENCIES:
+  - MRCircularProgressView
+
+SPEC CHECKSUMS:
+  MRCircularProgressView: ad3088a7e2908954ef3f1d4e9e322e2960ef0ebe
+
+PODFILE CHECKSUM: aa6608f54dbd544ff2d733bbb2872afe4a12881e
+
+COCOAPODS: 1.0.1
