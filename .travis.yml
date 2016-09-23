@@ -1,4 +1,3 @@
-language: swift
-sudo: required
+language: objective-c
 notifications:
   slack: jkdevapps:bhpiJINMZQaPZ6CNaODaPvEZ
