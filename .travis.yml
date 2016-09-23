@@ -1,1 +1,4 @@
 language: swift
+notifications:
+  slack: jkdevapps:bhpiJINMZQaPZ6CNaODaPvEZ
+  
